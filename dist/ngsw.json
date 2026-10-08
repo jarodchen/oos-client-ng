@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1791437809143,
+  "timestamp": 1791438374410,
   "index": "/oos-client-ng/index.html",
   "assetGroups": [
     {
@@ -164,7 +164,7 @@
     "/oos-client-ng/icons/pwa-32x32.png": "a8a069f44a1cac27be9dde73021bbe0dd5248612",
     "/oos-client-ng/icons/pwa-512x512.png": "bc2a7c1d9e7ea0b2239819ca9cadbf9e37a257b2",
     "/oos-client-ng/icons/pwa-64x64.png": "28a0b40ad364d721898e0c218861b8e603f58f78",
-    "/oos-client-ng/index.html": "4f171cd4fc7a0f44a5d0af40cd0b6d59a72025ba",
+    "/oos-client-ng/index.html": "ab01c4cd5e49f2841c8b65e29cc937a248db1217",
     "/oos-client-ng/main-E54V4QGX.js": "ffa10e3bc10af84d5c8903d8a4b7516d3b74b3e6",
     "/oos-client-ng/manifest.webmanifest": "35be4f4275f0d684430bfacb364a91806d9c89b5",
     "/oos-client-ng/styles-RGPY4IXL.css": "fb5b6e299f612d5788fccc0ff8ab37331f24b82d",
