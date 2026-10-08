@@ -1,0 +1,1 @@
+function t(e){return e.fileName||e.key.split(`/`).pop()||e.key}export{t};

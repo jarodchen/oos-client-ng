@@ -1,0 +1,1 @@
+function e(n){return n?n.split(`/`).map(t=>encodeURIComponent(t)).join(`/`):``}function o(n,t){let r=e(t);return r?`${n}/${r}`:n}export{o as n,e as t};
